@@ -1,2 +1,2 @@
 # Ytsmovie-scrapper
-It scrapps the info of the latest movies on yts website.
+It scan be used for scrapping info of the latest movies on yts website.
